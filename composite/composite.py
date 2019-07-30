@@ -1,5 +1,5 @@
 """
-Component: This is a structural pattern whose main goal is to compose nested structures of objects and to deal with the 
+Composite: This is a structural pattern whose main goal is to compose nested structures of objects and to deal with the 
            classes for these objects uniformly.
 
 There are two kinds of classes here 
